@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.4.3)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - MBProgressHUD (1.2.0)
+  - Nuke (9.5.0)
+  - Nuke-Alamofire-Plugin (5.0.0):
+    - Alamofire (~> 5.0)
+    - Nuke (~> 9.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - MBProgressHUD
+  - Nuke-Alamofire-Plugin
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - MBProgressHUD
+    - Nuke
+    - Nuke-Alamofire-Plugin
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Nuke: 6f400a4ea957e09149ec335a3c6acdcc814d89e4
+  Nuke-Alamofire-Plugin: f30d8aa02fc505bb70461a76015f2bf91a59b177
+
+PODFILE CHECKSUM: 4a4927d412bfcf5480667d0d72c890e611e45d3a
+
+COCOAPODS: 1.10.0
